@@ -5,6 +5,22 @@ These are the styles for the whole document.
 
 .main-title {
     background: red; /* devil colors*/
+    /* padding: 35px; */
+    /* 
+    padding-top: 10px;
+    padding-right: 35px; 
+    padding-bottom: 10px;
+    padding-left: 35px;
+    */
+    /* padding: 10px 35px; */
+    padding: 10px 35px 12px 25px;
+    /* 
+    Top
+    Right
+    Bottom
+    Left
+    */
+    margin: 0;
 }
 
 .fancy-font, 
@@ -27,3 +43,4 @@ These are the styles for the whole document.
 
     color: rgba(61, 88, 88, 0.787);
 }
+
