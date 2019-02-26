@@ -42,5 +42,33 @@ These are the styles for the whole document.
     /* color: rgba(255, 0, 0, 1.0); */
 
     color: rgba(61, 88, 88, 0.787);
+
+    color: green;
 }
 
+.navbar ul {
+    padding-left: 0;
+}
+
+.navbar li {
+    color: green;
+    list-style: none;
+
+}
+
+
+.main-image {
+    width: 140px;
+}
+
+.main-image img {
+    width: 100%;
+}
+
+.hero-image {
+    background-image: url(../images/man-hug.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
